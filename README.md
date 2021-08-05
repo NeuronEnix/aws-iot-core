@@ -1,1 +1,1 @@
-# aws-iot-core
+# aws-iot-core using esp32
